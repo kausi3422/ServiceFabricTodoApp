@@ -1,6 +1,5 @@
 # ServiceFabricTodoApp
-Service Fabric application 
-
+Service Fabric App
 
 
 Service Fabric app implemeting a .Net core stateless web api solution
